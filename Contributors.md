@@ -2,6 +2,7 @@
 
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Achiv Chauhan](https://github.com/achiv)
+- [Ayush Jindal]
 - [sia4](https://github.com/sia4)
 - [Long Tran](https://github.com/nhulongctk35)
 - [Basheer88](https://github.com/Basheer88)
